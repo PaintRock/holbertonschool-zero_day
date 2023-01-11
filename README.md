@@ -1,2 +1,1 @@
-My first readme. updat
-ed
+My first readme.
